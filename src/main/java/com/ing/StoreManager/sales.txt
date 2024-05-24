@@ -1,0 +1,5 @@
+Coca-cola,25,8.4
+Pepsi,28,8.2
+Fanta,20,7.9
+7up,15,7.45
+Mirinda,18,7.3
